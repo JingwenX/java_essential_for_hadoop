@@ -1,0 +1,7 @@
+package ex_static_variable_property;
+public class class3 {
+	void fun(){
+		class2 ob1 = new class2();
+	} 
+
+}

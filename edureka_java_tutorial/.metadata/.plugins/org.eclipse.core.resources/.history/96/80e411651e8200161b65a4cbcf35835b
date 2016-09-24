@@ -1,0 +1,11 @@
+package test2;
+
+public class class3 {
+	void fun(){
+		class2 ob1 = new class2();
+		System.out.println(ob1.count);
+		System.out.println(class2.count);
+		System.out.println(ob1.count)
+	} 
+
+}
